@@ -1,0 +1,219 @@
+# Caché, archivos temporales y personales
+
+/ .htaccess
+* .registro
+npm-debug.log. *
+.sass-caché /
+/ caché / *
+descargar / *
+/ img / *
+/ registro / *
+/ subir / *
+/ vendedor / *
+! / vendedor / .htaccess
+docs / phpdoc-sf /
+compositor.lock
+pruebas / Selenium / errorShots /
+pruebas / Selenium / errorDumps /
+
+/ admin044kdy7qy / actualización automática / *
+/ admin044kdy7qy / copias de seguridad / *
+/ admin044kdy7qy / importar / *
+
+/ admin044kdy7qy / importar / *
+! /admin044kdy7qy/importar/.htaccess _ _ _ _ _ _
+! /admin044kdy7qy/importar/index.php _ _ _ _ _ _
+
+temas / * / caché / *
+
+# Configuración
+
+config / configuración.inc.php
+config / configuración.antiguo.php
+configuración / xml / *
+config / temas / *
+! config / xml / temas / default.xml
+pruebas / Selenio / settings.js
+temas / * / config / settings_ * .json
+aplicación / config / parámetros.old.yml
+aplicación / config / config.php
+
+# Temas, módulos y overrides
+
+! módulos / *
+módulos / config_ * .xml
+módulos / ps_imageslider / imágenes / *
+! módulos / ps_imageslider / imágenes / index.php
+módulos / ps_banner / img / *
+! módulos / ps_banner / img / index.php
+
+! anular / *
+/ temas / StarterTheme
+
+# Proveedores y dependencias
+
+componentes_bower /
+node_modules /
+compositor.phar
+php-cs-reparador
+.gruñido / *
+
+# Traducciones y plantillas de correos electrónicos
+
+traducciones / *
+correos / *
+! correos / fr /
+temas / default-bootstrap / lang / *
+temas / default-bootstrap / módulos / * / traducciones / * .php
+temas / default-bootstrap / correos / *
+! temas / default-bootstrap / correos / fr /
+themes / default-bootstrap / módulos / * / correos / *
+! themes / default-bootstrap / módulos / * / correos / fr
+
+# VARIOS
+
+* mapa del sitio.xml
+/robots.txt _
+
+# Symfony
+
+/aplicación/bootstrap.php.cache _ _ _
+/ aplicación / caché / *
+! aplicación / caché / .gitkeep
+/ app / Recursos / traducciones / *
+! / aplicación / Recursos / traducciones / predeterminado
+/ aplicación / prueba / caché / *
+! aplicación / prueba / caché / .gitkeep
+/aplicación/config/parámetros.yml _ _ _ _ _
+/aplicación/config/parámetros.php _ _ _ _ _
+/ aplicación / registros / *
+! aplicación / registros / .gitkeep
+/aplicación/phpunit.xml _ _ _
+/ papelera /
+/ web / paquetes /
+/ web / css /
+/ web / js /
+/ var /
+
+
+# Creado por https://www.gitignore.io/api/linux,osx,windows,sublimetext,phpstorm
+
+# ## Linux ###
+* ~
+
+# Preferencias del directorio de KDE
+.directorio
+
+# Carpeta de basura de Linux que puede aparecer en cualquier partición o disco
+.Papelera- *
+
+
+# ## OS X ###
+.DS_Tienda
+.AppleDoble
+.LSOanular
+
+# El ícono debe terminar con dos \r
+Icono
+
+
+# Miniaturas
+._ *
+
+# Archivos que pueden aparecer en la raíz de un volumen
+.DocumentRevisions-V100
+.fseventsd
+.Foco-V100
+.TemporaryItems
+.Papeleras
+.VolumeIcon.icns
+
+# Directorios potencialmente creados en recursos compartidos AFP remotos
+.AppleDB
+.AppleDesktop
+ Papelera  de red
+ Artículos temporales
+.apdisk
+
+
+# ## Ventanas ###
+# Cachés de archivos de imagen de Windows
+Pulgares.db
+ehthumbs.db
+
+# archivo de configuración de la carpeta
+Escritorio.ini
+
+# Papelera de reciclaje utilizada en archivos compartidos
+$RECICLAJE.BIN /
+
+# archivos del instalador de Windows
+* .cabina
+* .msi
+* .msm
+* .msp
+
+# Atajos de Windows
+* .lnk
+
+
+# ## Texto sublime ###
+# archivos de caché para texto sublime
+* .tmlanguage.cache
+* .tmPreferencias.cache
+* .stTheme.caché
+
+# archivos del espacio de trabajo son específicos del usuario
+* .sublime-espacio de trabajo
+
+# los archivos del proyecto se deben registrar en el repositorio, a menos que se produzca un
+# proporción de colaboradores probablemente no usará SublimeText
+# *.sublime-proyecto
+
+# archivo de configuración sftp
+sftp-config.json
+
+
+# ## PhpStorm ###
+# Cubre los IDE de JetBrains: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
+
+* .iml
+
+# # Formato de proyecto basado en directorio:
+.idea /
+
+# # Formato de proyecto basado en archivos:
+* .ipr
+* .iws
+
+# # Archivos específicos del complemento:
+
+#IntelliJ _
+/ fuera /
+
+# Complemento mpeltonen/sbt-idea
+.idea_modules /
+
+# Complemento JIRA
+atlassian-ide-plugin.xml
+
+# Complemento Crashlytics (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.propiedades
+crashlytics-build.propiedades
+
+# ## NetBeans ###
+nbproject / privado /
+construir /
+nbconstruir /
+dist /
+nbdist /
+nbacciones.xml
+nb-configuration.xml
+.nb-gradle /
+
+# ## Eclipse ###
+.Construir camino
+.proyecto
+.configuraciones /
+.constructores de herramientas externas /

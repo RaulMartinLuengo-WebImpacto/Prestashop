@@ -1,0 +1,49 @@
+<?php
+/* Smarty version 3.1.43, created on 2022-04-05 10:22:25
+  from 'C:\WebImpacto\XAMPP\htdocs\prestashop\themes\classic\templates\catalog\_partials\productlist.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.43',
+  'unifunc' => 'content_624bfc41b69f60_38740798',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'c20c110fb75c8c1d659b6f50da7278c282d0fc6c' => 
+    array (
+      0 => 'C:\\WebImpacto\\XAMPP\\htdocs\\prestashop\\themes\\classic\\templates\\catalog\\_partials\\productlist.tpl',
+      1 => 1647359402,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+    'file:catalog/_partials/miniatures/product.tpl' => 1,
+  ),
+),false)) {
+function content_624bfc41b69f60_38740798 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1353351647624bfc41b4ad74_89875332';
+?>
+
+<?php $_smarty_tpl->smarty->ext->_capture->open($_smarty_tpl, 'default', "productClasses", null);
+if (!empty($_smarty_tpl->tpl_vars['productClass']->value)) {
+echo htmlspecialchars($_smarty_tpl->tpl_vars['productClass']->value, ENT_QUOTES, 'UTF-8');
+} else { ?>col-xs-6 col-xl-4<?php }
+$_smarty_tpl->smarty->ext->_capture->close($_smarty_tpl);?>
+
+<div class="products<?php if (!empty($_smarty_tpl->tpl_vars['cssClass']->value)) {?> <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['cssClass']->value, ENT_QUOTES, 'UTF-8');
+}?>">
+    <?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['products']->value, 'product', false, 'position');
+$_smarty_tpl->tpl_vars['product']->do_else = true;
+if ($_from !== null) foreach ($_from as $_smarty_tpl->tpl_vars['position']->value => $_smarty_tpl->tpl_vars['product']->value) {
+$_smarty_tpl->tpl_vars['product']->do_else = false;
+?>
+        <?php $_smarty_tpl->_subTemplateRender("file:catalog/_partials/miniatures/product.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array('product'=>$_smarty_tpl->tpl_vars['product']->value,'position'=>$_smarty_tpl->tpl_vars['position']->value,'productClasses'=>$_smarty_tpl->tpl_vars['productClasses']->value), 0, true);
+?>
+    <?php
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?>
+</div>
+<?php }
+}

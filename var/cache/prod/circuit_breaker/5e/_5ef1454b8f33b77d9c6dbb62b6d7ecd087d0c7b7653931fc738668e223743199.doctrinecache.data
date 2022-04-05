@@ -1,0 +1,93 @@
+1649190085
+s:6390:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Envío gratuito, rápido y fiable: Un elemento imprescindible para la satisfacción del cliente</title>
+    <link>https://www.prestashop.com/es/blog/envio-rapido-esencial-ecommerce</link>
+    <description>Amazon Prime ha aumentado las expectativas de entrega en todo el país. Muchos consumidores en línea esperan ahora que sus pedidos en línea lleguen en dos días, y no quieren pagar por el envío.</description>
+     <pubDate>Thu, 31 Mar 2022 18:06:12 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/envio-rapido-esencial-ecommerce</guid>
+  </item>
+  <item>
+    <title>Google Ads y PrestaShop: best practices y herramientas</title>
+    <link>https://www.prestashop.com/es/blog/google-ads-prestashop</link>
+    <description>Hoy en día, tener un eCommerce se ha convertido en una necesidad para el crecimiento de las ventas de cualquier empresa de productos/servicios.</description>
+     <pubDate>Thu, 31 Mar 2022 11:44:51 +0200</pubDate>
+ <dc:creator>Paola Castaño</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/google-ads-prestashop</guid>
+  </item>
+  <item>
+    <title>¿Cómo sus productos, pedidos y clientes pueden contribuir al desarrollo de su tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/desarrollar-prestashop-con-productos</link>
+    <description>La principal misión para cualquier comerciante electrónico es conseguir que sus datos dejen de ser un obstáculo y se conviertan en una verdadera baza al servicio de su estrategia.</description>
+     <pubDate>Fri, 25 Mar 2022 15:20:14 +0100</pubDate>
+ <dc:creator>Vincent Millet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/desarrollar-prestashop-con-productos</guid>
+  </item>
+  <item>
+    <title>Diez cosas que todo cliente aprecia cuando compra por Internet</title>
+    <link>https://www.prestashop.com/es/blog/indispensables-para-ecommerce</link>
+    <description>Hay millones de tiendas online, lo que significa que tienes que destacar tu marca lo más que puedas.</description>
+     <pubDate>Fri, 25 Mar 2022 15:09:32 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/indispensables-para-ecommerce</guid>
+  </item>
+  <item>
+    <title>Por qué la honestidad en el marketing es importante</title>
+    <link>https://www.prestashop.com/es/blog/usar-resenas-ecommerce</link>
+    <description>¿Qué importancia dan los consumidores a la honestidad de una marca?</description>
+     <pubDate>Tue, 22 Mar 2022 17:14:05 +0100</pubDate>
+ <dc:creator>Anna Huston</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/usar-resenas-ecommerce</guid>
+  </item>
+  <item>
+    <title>Ecommerce y Pymes:  Tendencias de negocio de las Tiendas online del One Million Club para 2022</title>
+    <link>https://www.prestashop.com/es/blog/tendencias-million-club-prestashop</link>
+    <description>
+
+Más del 92% de las mismas prevén un incremento de sus ventas (GMV) y 75% esperan que sus ventas de exportación sean un factor importante de crecimiento.</description>
+     <pubDate>Wed, 16 Mar 2022 14:07:52 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-million-club-prestashop</guid>
+  </item>
+  <item>
+    <title>Bricotex: pintando su futuro en el eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/adaptacion-ecommerce-bricotex</link>
+    <description>Quién es Bricotex? </description>
+     <pubDate>Wed, 09 Mar 2022 11:16:40 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/adaptacion-ecommerce-bricotex</guid>
+  </item>
+  <item>
+    <title>¿Qué aspectos jurídicos se han de tener en cuenta en un eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/requisitos-legales-ecommerce</link>
+    <description>Las ventas en el sector eCommerce no han hecho más que multiplicarse y en gran parte debido a la pandemia provocada por el COVID-19 que ha conseguido que se haya experimentado una fuerte explosión.</description>
+     <pubDate>Wed, 02 Mar 2022 10:49:07 +0100</pubDate>
+ <dc:creator>José María Baños</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/requisitos-legales-ecommerce</guid>
+  </item>
+  <item>
+    <title>De canales clásicos a un modelo 100% online, el caso de éxito de Moldiber</title>
+    <link>https://www.prestashop.com/es/blog/digitalizacion-ecommerce-moldiber</link>
+    <description> Conversamos con Nestor Murillo, CEO de Moldiber, una empresa familiar zaragozana especializada en la impresión digital, rotulación, fotografía y enmarcación par</description>
+     <pubDate>Mon, 28 Feb 2022 13:47:49 +0100</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/digitalizacion-ecommerce-moldiber</guid>
+  </item>
+  <item>
+    <title>Cómo satisfacer a sus clientes con la logística de envíos</title>
+    <link>https://www.prestashop.com/es/blog/satisfacer-clientes-delivery-efn</link>
+    <description>Hoy en día se necesita algo especial para impresionar a los clientes del comercio electrónico.</description>
+     <pubDate>Mon, 21 Feb 2022 13:13:01 +0100</pubDate>
+ <dc:creator>Andreas Bicking</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/satisfacer-clientes-delivery-efn</guid>
+  </item>
+  </channel>
+</rss>
+";
